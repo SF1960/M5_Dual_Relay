@@ -8,8 +8,8 @@
 * Use functions...
 *
 * buttons::setup();
-* if (buttons::PBhome() == PRESSED)
-* if (buttons::PBreset() ==PRESSED)
+* if (buttons::PBhome()  == PRESSED)
+* if (buttons::PBreset() == PRESSED)
 *
 ********************************************************************************/
 
