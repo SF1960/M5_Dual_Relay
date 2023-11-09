@@ -22,6 +22,7 @@ Using M5 Modules to remotely control relays using Arduino IOT and integral push 
   ├── arduino_secrets.h     => library that holds your WiFi credentials
   ├── pbHelper.h            => library that manages the integral push buttons
   ├── relayHelper.h         => library that manages the relay module
+  ├── M5Helper.h            => library that manages the M5 Stick module
   ├── thingProperties.h     => Arduino created library 
   └── ReadMe.adoc           => this file
 ....
@@ -30,7 +31,8 @@ Using M5 Modules to remotely control relays using Arduino IOT and integral push 
 This project is released under a {Public} License.
 
 === Contributing
-To contribute to this project please contact: sgfpcb@gmail.com or visit GitHub https://github.com/SF1960/M5_Dual_Relay.git
+To contribute to this project please contact: sgfpcb@gmail.com or
+visit GitHub https://github.com/SF1960/M5_Dual_Relay.git
 
 === BOM
 Add the bill of the materials you need for this project.
@@ -40,7 +42,6 @@ Add the bill of the materials you need for this project.
 | A1 | M5StickCPlus1.1 | 1234-abcd   | 1     
 | A2 | 2 x Relay Module| 2345-asdf   | 1           
 |===
-
 
 === Help
 In depth help and assistance https://docs.google.com/document/d/e/2PACX-1vTH1nJYqNYGAg056k6YIh0rXgBWlNZ1g8O2z5Eg9DDR7KSh8IV7Ok6y7FPdXnKbob_FHi-xP2Slc4QJ/pub[Code Help]
