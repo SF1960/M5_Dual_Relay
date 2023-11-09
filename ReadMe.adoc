@@ -43,6 +43,7 @@ Add the bill of the materials you need for this project.
 
 
 === Help
+In depth help and assistance https://docs.google.com/document/d/e/2PACX-1vTH1nJYqNYGAg056k6YIh0rXgBWlNZ1g8O2z5Eg9DDR7KSh8IV7Ok6y7FPdXnKbob_FHi-xP2Slc4QJ/pub[Code Help]
 This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
 If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
 or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
