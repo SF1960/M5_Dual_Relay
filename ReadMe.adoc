@@ -30,7 +30,7 @@ Using M5 Modules to remotely control relays using Arduino IOT and integral push 
 This project is released under a {Public} License.
 
 === Contributing
-To contribute to this project please contact: sgfpcb@gmail.com or visit GitHub 
+To contribute to this project please contact: sgfpcb@gmail.com or visit GitHub https://github.com/SF1960/M5_Dual_Relay.git
 
 === BOM
 Add the bill of the materials you need for this project.
